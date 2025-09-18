@@ -1,0 +1,4 @@
+Django>=4.2,<5
+djangorestframework
+influxdb-client>=1.35.0
+celery>=5.3.0
